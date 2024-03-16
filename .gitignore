@@ -1,4 +1,4 @@
 .env
-db/db.sqlite3
+webBack/db/db.sqlite3
 **/__pycache__/
 **/*.pyc
